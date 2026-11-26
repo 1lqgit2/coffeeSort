@@ -1,0 +1,104 @@
+[
+ {
+  "text": "ID:xxxxxxxxxxxxxxxxxxxxxxxxxxx",
+  "font_guid": "2fed748e012e88149bd3a799854b109a",
+  "files": [
+   "Assets\\Prefabs\\UIs\\uidialog\\uiCommonSetting.prefab",
+   "Assets\\Scenes\\Game.unity"
+  ],
+  "n": 2
+ },
+ {
+  "text": "X100",
+  "font_guid": "4b55cb2df6c16834786823b918fe5b7f",
+  "files": [
+   "Assets\\AdSDK\\Resources\\AdSliderBar.prefab",
+   "Assets\\AdSDK\\Resources\\AdSliderBar_Hor.prefab"
+  ],
+  "n": 2
+ },
+ {
+  "text": "X50",
+  "font_guid": "3173725aa5bf6284a81da5fd791d518e",
+  "files": [
+   "Assets\\Scenes\\Game.unity"
+  ],
+  "n": 1
+ },
+ {
+  "text": "v.1.0.0",
+  "font_guid": "2fed748e012e88149bd3a799854b109a",
+  "files": [
+   "Assets\\Prefabs\\UIs\\uidialog\\uiCommonSetting.prefab",
+   "Assets\\Scenes\\Game.unity"
+  ],
+  "n": 2
+ },
+ {
+  "text": "x",
+  "font_guid": "34a6ac039f1ad994daec25aa441b1025",
+  "files": [
+   "Assets\\Prefabs\\UIs\\uidialog\\uiBuyItem.prefab",
+   "Assets\\Scenes\\Game.unity"
+  ],
+  "n": 2
+ },
+ {
+  "text": "x1",
+  "font_guid": "34a6ac039f1ad994daec25aa441b1025",
+  "files": [
+   "Assets\\Prefabs\\UIs\\uidialog\\uiBuyItem.prefab",
+   "Assets\\Scenes\\Game.unity"
+  ],
+  "n": 2
+ },
+ {
+  "text": "x10000",
+  "font_guid": "3173725aa5bf6284a81da5fd791d518e",
+  "files": [
+   "Assets\\Prefabs\\UIs\\uidialog\\uiCommonRevive.prefab"
+  ],
+  "n": 1
+ },
+ {
+  "text": "x2",
+  "font_guid": "3173725aa5bf6284a81da5fd791d518e",
+  "files": [
+   "Assets\\Prefabs\\UIs\\uidialog\\uiCommonRevive.prefab"
+  ],
+  "n": 1
+ },
+ {
+  "text": "x75",
+  "font_guid": "3173725aa5bf6284a81da5fd791d518e",
+  "files": [
+   "Assets\\Prefabs\\UIs\\shopitem\\CoinItem.prefab",
+   "Assets\\Prefabs\\UIs\\shopitem\\FreeCoinItem.prefab"
+  ],
+  "n": 2
+ },
+ {
+  "text": "修改ab",
+  "font_guid": "4b55cb2df6c16834786823b918fe5b7f",
+  "files": [
+   "Assets\\Prefabs\\UIs\\uidialog\\uiCommonSetting.prefab"
+  ],
+  "n": 1
+ },
+ {
+  "text": "显示   GM工具",
+  "font_guid": "4b55cb2df6c16834786823b918fe5b7f",
+  "files": [
+   "Assets\\Prefabs\\UIs\\uidialog\\uiCommonSetting.prefab"
+  ],
+  "n": 1
+ },
+ {
+  "text": "隐藏  GM工具",
+  "font_guid": "4b55cb2df6c16834786823b918fe5b7f",
+  "files": [
+   "Assets\\Prefabs\\UIs\\uidialog\\uiCommonSetting.prefab"
+  ],
+  "n": 1
+ }
+]
